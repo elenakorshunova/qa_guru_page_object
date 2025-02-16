@@ -1,6 +1,6 @@
 import { test, expect } from "@playwright/test";
 // todo
-import { MainPage, RegisterPage, YourfeedPage } from "../src/pages/index";
+import { MainPage, RegisterPage, YourFeedPage } from "../src/pages/index";
 import { ArticleBuilder, UserBuilder } from "../src/helpers/builder/index";
 
 test.describe("Шаблон", () => {
